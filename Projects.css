@@ -12,7 +12,7 @@
 
 .header {
     overflow: hidden;
-    background-color: bisque;
+    background-color: red;
     padding: 10px 5px;
 }
 
@@ -103,20 +103,20 @@ dd {
 
 h1 {
     font-family: Algerian;
-    color: deeppink;
+    color: darkblue;
     font-size: 30px;
 }
 
 h2 {
     padding-top: 30px;
     font-family: Algerian;
-    color: deeppink;
+    color: darkblue;
     font-size: 30px;
 }
 
 h3 {
     padding-top: 30px;
     font-family: Algerian;
-    color: deeppink;
+    color: darkblue;
     font-size: 30px
 }

@@ -12,7 +12,7 @@
 
 .header {
     overflow: hidden;
-    background-color: bisque;
+    background-color: red;
     padding: 10px 5px;
 }
 
@@ -97,7 +97,7 @@ dt {
 
 h1 {
     font-family: Algerian;
-    color: deeppink;
+    color: darkblue;
     font-size: 30px;
 }
 
